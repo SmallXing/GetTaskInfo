@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main>
+	<process>
+		<item>CleanDisk.exe *32</item>
+		<item>CoreServer.exe *32</item>
+		<item>System Idle Process</item>
+		<item>ServicesManager.exe *32</item>
+		<item>HintAMProxy.exe *32</item>
+		<item>SGUServer.exe *32</item>
+		<item>SpeedServer.exe *32</item>
+		<item>SGUClient.exe *32</item>
+		<item>DownLoadSVC.exe *32</item>
+	</process>
+	
+	<cycle>
+		<TaskInfo>200</TaskInfo>
+	</cycle>
+
+</main>
